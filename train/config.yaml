@@ -1,0 +1,26 @@
+path: C:\Users\russo\Desktop\Documenti Domenico\yolo\main\dataset
+train: images/train
+val: images/train
+
+names:
+  0: 5
+  1: 15
+  2: 30
+  3: 40
+  4: 50
+  5: 60
+  6: 70
+  7: 80
+  8: divieto
+  9: nDesSin
+  10: nDes
+  11: nDritto
+  12: nSinistra
+  13: pedoni
+  14: sDes
+  15: sDesSin
+  16: sDrittDes
+  17: sDritto
+  18: semaforo
+  19: sSin
+  20: pericolo
